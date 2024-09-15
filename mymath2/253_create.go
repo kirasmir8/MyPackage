@@ -12,5 +12,5 @@ func Acosh(x float64) float64 {
 	return math.Acosh(x)
 }
 func Asin(x float64) float64 {
-	return math.Asin(x)
+	return math.Asin(x) // re
 }
